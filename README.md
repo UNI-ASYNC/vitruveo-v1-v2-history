@@ -16,6 +16,7 @@ This repository examines the historical transition from Vitruveo V1 to V2 using 
 - [Protocol changes](protocol-changes/what-changed.md)
 - [Contract review](contract-review/contracts-and-functionality.md)
 - [Carry-forward analysis](carry-forward-analysis/preserved-modified-removed.md)
+- [V2 source-confirmed observations](evidence/v2-source-confirmed.md)
 - [Evidence and methodology](evidence/sources-and-methodology.md)
 
 ## Pinned source references
