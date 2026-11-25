@@ -23,5 +23,8 @@ These labels describe evidence status, not severity or intent.
 ## Limitations
 Public-source review cannot establish that every live deployment uses the inspected source, that private infrastructure matches public documentation, or that a possible vulnerability is exploitable. Unless explicitly documented, dynamic testing, fuzzing, formal verification, and independent peer review have not been performed.
 
+## Current access limitation
+The V1 repository recorded in earlier research currently returns 404 when queried from this review environment. The pinned V1 commit is therefore not independently rechecked here. V1-to-V2 comparison claims remain provisional until that source is available or a redistributable, sanitized snapshot with provenance is published. The V2 source observations are separately documented in [V2 source-confirmed notes](v2-source-confirmed.md).
+
 ## Archive separation
 Private investigative archives may contain original captures, correspondence, notes, drafts, reconstructed documents, or duplicates. Those items are not automatically public evidence. Public claims should be substantiated with sources that can be independently checked and shared responsibly.
