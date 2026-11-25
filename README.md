@@ -3,6 +3,9 @@
 
 This repository examines the historical transition from Vitruveo V1 to V2 using public source repositories, recorded version history, contract materials, and dated blockchain observations. This is a substantive historical review—not an empty scaffold.
 
+## Source access caveat
+The V2 source has been rechecked at a pinned commit. The V1-era repository currently returns 404 from this review environment; therefore V1 comparison statements below are based on preserved earlier research and remain provisional pending independent source re-verification.
+
 ## Initial findings
 
 - **Client foundation changed:** the reviewed V1-era source is associated with Geth v1.13.0; the V2 client is based on Geth v1.13.15 and has a separate repository history.
