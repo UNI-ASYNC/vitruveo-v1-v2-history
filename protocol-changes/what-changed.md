@@ -22,5 +22,8 @@ The V2 source review identified custom functionality including HOST, Passkey, Sh
 ## Consensus and release evidence
 The preserved review notes Clique/Shanghai-related changes and repeated fixes. Raw repository diff size is dominated by the upstream Geth foundation change and should not be presented as the size of Vitruveo-specific changes.
 
+## V1 verification limitation
+The V1 source repository currently returns 404 from this review environment. V1-side statements are retained from earlier research and should be treated as provisional until independently re-verified from accessible source.
+
 ## Evidence limits
 Exact per-feature paths, line citations, tests, activation conditions and current deployment status remain to be attached to individual entries. The source commits above are the review baselines, not a claim about the latest deployed version.
